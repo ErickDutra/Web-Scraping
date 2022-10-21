@@ -1,27 +1,27 @@
-['Guedes confirma plano de desvincular sal·rio mÌnimo da inflaÁ„o', "ApÛs repercuss„o negativa, ministÈrio afirmou que valores 'ser„o corrigidos, no mÌnimo, pela inflaÁ„o'.", 'https://g1.globo.com/economia/noticia/2022/10/20/guedes-confirma-plano-de-desvincular-salario-minimo-da-inflacao-mas-nega-que-objetivo-seja-reajuste-menor.ghtml']
+['Guedes confirma plano de desvincular sal√°rio m√≠nimo da infla√ß√£o', "Ap√≥s repercuss√£o negativa, minist√©rio afirmou que valores 'ser√£o corrigidos, no m√≠nimo, pela infla√ß√£o'.", 'https://g1.globo.com/economia/noticia/2022/10/20/guedes-confirma-plano-de-desvincular-salario-minimo-da-inflacao-mas-nega-que-objetivo-seja-reajuste-menor.ghtml']
 
 
-["Bolsonaro diz que 'n„o justifica passar fome' porque populaÁ„o pode pedir auxÌlio", '', 'https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/bolsonaro-diz-que-passar-fome-nao-justifica-porque-populacao-pode-requerer-auxilio-brasil.ghtml']
+["Bolsonaro diz que 'n√£o justifica passar fome' porque popula√ß√£o pode pedir aux√≠lio", '', 'https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/bolsonaro-diz-que-passar-fome-nao-justifica-porque-populacao-pode-requerer-auxilio-brasil.ghtml']
 
 
-['Juristas leem manifesto em BrasÌlia a favor da candidatura de Lula', '', 'https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/juristas-leem-manifesto-em-brasilia-a-favor-da-candidatura-de-lula-somos-pela-democracia.ghtml']
+['Juristas leem manifesto em Bras√≠lia a favor da candidatura de Lula', '', 'https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/juristas-leem-manifesto-em-brasilia-a-favor-da-candidatura-de-lula-somos-pela-democracia.ghtml']
 
 
-['ApÛs crÌticas, CFM vai reabrir discuss„o sobre limitaÁ„o do canabidiol', 'Conselho mudou orientaÁ„o sobre uso da subst‚ncia, e entidades apontam retrocesso.', 'https://g1.globo.com/saude/noticia/2022/10/20/apos-criticas-de-entidades-e-politicos-cfm-vai-abrir-nova-consulta-publica-sobre-canabidiol.ghtml']
+['O ASSUNTO: como o TSE reage diante de tanta mentira nas elei√ß√µes; OU√áA', '', 'https://g1.globo.com/podcast/o-assunto/noticia/2022/10/21/o-assunto-819-o-tse-e-a-avalanche-de-desinformacao.ghtml']
 
 
-['Maioria do STF vota para que licenÁa-maternidade comece a partir da alta', 'Decis„o beneficia casos em que bebÍ nasce prematuro ou precisa ficar internado. ', 'https://g1.globo.com/politica/noticia/2022/10/20/stf-tem-maioria-para-definir-que-licenca-maternidade-comeca-a-contar-a-partir-da-alta-hospitalar-da-mae-ou-do-bebe.ghtml']
-
-
-['Mega-Sena acumula e vai a R$ 100 milhıes; veja dezenas sorteadas', '', 'https://g1.globo.com/loterias/noticia/2022/10/20/mega-sena-concurso-2531-resultado.ghtml']
+['TSE recebe mais de 500 alertas de fake news por dia no 2¬∫ turno', '', 'https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/tse-recebe-mais-de-500-alertas-diarios-de-fake-news-no-segundo-turno-das-eleicoes.ghtml']
 
 
 ['Datafolha: democracia tem apoio recorde de 79% dos eleitores', '', 'https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/20/datafolha-democracia-tem-apoio-recorde-de-79percent-dos-eleitores.ghtml']
 
 
-['O que acontece agora no Reino Unido apÛs a queda de Liz Truss', '', 'https://g1.globo.com/mundo/noticia/2022/10/20/como-funcionara-a-eleicao-para-substituir-liz-truss-como-primeira-ministra-do-reino-unido.ghtml']
+["Extraditada, doleira que cantou 'Amada amante' em CPI est√° presa na Bahia", 'Brasileira √© suspeita de atuar para o narcotr√°fico e foi detida em Portugal.', 'https://g1.globo.com/ba/bahia/noticia/2022/10/20/presa-em-operacao-contra-o-trafico-internacional-doleira-nelma-kodama-volta-ao-brasil-e-desembarca-na-ba-diz-defesa.ghtml']
 
 
-['Johnson pode voltar? Veja os cotados para vaga de premiÍ', '', 'https://g1.globo.com/mundo/noticia/2022/10/20/boris-johnson-pode-voltar-veja-quem-sao-os-nomes-cotados-para-substituir-liz-truss-na-lideranca-do-reino-unido.ghtml']
+['Brasileiro fica em m√©dia um ano e meio sem trabalho formal, diz pesquisa', '', 'https://g1.globo.com/jornal-da-globo/noticia/2022/10/21/tempo-medio-do-brasileiro-sem-ocupacao-formal-e-de-um-ano-e-meio-diz-pesquisa.ghtml']
+
+
+['Ap√≥s cr√≠ticas, CFM vai reabrir discuss√£o sobre limita√ß√£o do canabidiol', 'Conselho mudou orienta√ß√£o sobre uso da subst√¢ncia, e entidades apontam retrocesso.', 'https://g1.globo.com/saude/noticia/2022/10/20/apos-criticas-de-entidades-e-politicos-cfm-vai-abrir-nova-consulta-publica-sobre-canabidiol.ghtml']
 
 

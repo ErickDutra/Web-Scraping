@@ -25,7 +25,7 @@ for noticia in noticia:
         lista_noticias.append([titulo.text,'', titulo['href']])
         
 
-with open('noticias.txt', 'w') as arquivo:
+with open('noticias.txt', 'w', encoding='utf-8') as arquivo:
     for valor in lista_noticias:
         arquivo.write(str(valor)+'\n' + '\n' + '\n')
 
