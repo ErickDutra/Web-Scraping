@@ -1,4 +1,3 @@
-from urllib import response
 import requests
 from bs4 import BeautifulSoup
 
@@ -24,8 +23,6 @@ def salvar_txt():
     with open('noticias.txt', 'w', encoding='utf-8') as arquivo:
         for valor in lista_noticias:
             arquivo.write(str(valor)+'\n' + '\n' + '\n')
-
-
 
 while True:
     atualizar = int(input("Desea atualizar as noticias? [1]Atualizar [0]Sair :"))
