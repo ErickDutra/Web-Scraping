@@ -25,7 +25,7 @@ def salvar_txt():
             arquivo.write(str(valor)+'\n' + '\n' + '\n')
 
 while True:
-    atualizar = int(input("Desea atualizar as noticias? [1]Atualizar [0]Sair :"))
+    atualizar = int(input("Deseja atualizar as noticias? [1]Atualizar [0]Sair :"))
     if atualizar == 1:
         scraping()
         salvar_txt()
